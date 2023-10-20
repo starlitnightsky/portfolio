@@ -4,12 +4,40 @@
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+        "name": "Vue",
+        "icon": "https://img.icons8.com/fluency/48/000000/vuejs.png"
+    },
+    {
+        "name": "React Native",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "Next.js",
+        "icon": "https://img.icons8.com/color/48/nextjs.png"
+    },
+    {
+        "name": "Nuxt Js",
+        "icon": "https://img.icons8.com/color/48/nuxt-jc.png"
+    },
+    {
+        "name": "Svelte",
+        "icon": "https://img.icons8.com/doodle/48/svetle.png"
     },
     {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "ExpressJS",
+        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+    },
+    {
+        "name": "Laravel",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/django.png"
     },
     {
         "name": "Redux",
@@ -18,6 +46,10 @@
     {
         "name": "Firebase",
         "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    },
+    {
+        "name": "GraphQL",
+        "icon": "https://img.icons8.com/fluency/48/graphql.png"
     },
     {
         "name": "Android",
@@ -33,7 +65,7 @@
     },
     {
         "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+        "icon": "https://img.icons8.com/color/48/tailwind_css.png"
     },
     {
         "name": "Bootstrap",
@@ -42,6 +74,10 @@
     {
         "name": "Sass",
         "icon": "https://img.icons8.com/color/48/000000/sass.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
     },
     {
         "name": "HTML5",
@@ -54,6 +90,10 @@
     {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/color/48/000000/typescript--v1.png"
     },
     {
         "name": "Java",
@@ -92,8 +132,20 @@
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
     {
+        "name": "GCP",
+        "icon": "https://img.icons8.com/color/48/google-cloud.png"
+    },
+    {
         "name": "Heroku",
         "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/fluency/48/docker.png"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/color/48/kubernetes.png"
     },
     {
         "name": "Netlify",
@@ -104,11 +156,11 @@
         "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
     },
     {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+        "name": "NPM",
+        "icon": "https://img.icons8.com/color/48/npm.png"
     },
     {
-        "name": "Git VCS",
+        "name": "Git",
         "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
     {
@@ -116,7 +168,11 @@
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+        "name": "ChatGPT",
+        "icon": "https://img.icons8.com/color/48/chatgpt.png"
+    },
+    {
+        "name": "Tensorflow",
+        "icon": "https://img.icons8.com/color/48/tensorflow.png"
+    }
 ]

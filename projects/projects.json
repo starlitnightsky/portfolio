@@ -1,342 +1,242 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "android",
+    "name": "Create",
+    "desc": "AI powered app creattion platform, It can save 60+ days on Day 1.",
+    "image": "create",
+    "category": "web",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://app.create.xyz/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
-    "category": "android",
+    "name": "AppRabbit",
+    "desc": "AppRabbit offers a simplified and efficient way to build customized mobile apps for businesses and individuals.",
+    "image": "apprabbit",
+    "category": "mobile",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
+      "view": "https://apprabbit.com/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
-    "category": "android",
+    "name": "MapLibre",
+    "desc": "Open-source mapping libraries for web and mobile app developers.",
+    "image": "maplibre",
+    "category": "web",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
+      "view": "https://maplibre.org/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
-    "category": "android",
+    "name": "MarbleDAO",
+    "desc": "MarbleDAO is the first community-driven DAO on Juno. It supports staking&bonding tokens, NFT marketplace",
+    "image": "marble",
+    "category": "web",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+      "view": "https://app.marbledao.finance/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
-    "category": "mern",
+    "name": "ArtHeart",
+    "desc": "AI powered character generation platform, you can even chat with him/her.",
+    "image": "artheart",
+    "category": "web",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://artheart.ai/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
-    "category": "mern",
+    "name": "Spoken",
+    "desc": "Spoken is an online platform that aims to prevent users from overpaying while shopping online.",
+    "image": "spoken",
+    "category": "web",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://spoken.io/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
-    "category": "mern",
+    "name": "Tidio Chatbot",
+    "desc": "Tidio is a conversational AI platform",
+    "image": "tidio",
+    "category": "web",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://www.tidio.com/chatbots/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
-    "category": "mern",
+    "name": "Treasure chess",
+    "desc": "You can collect your NFT by playing chess game!",
+    "image": "treasure-chess",
+    "category": "web",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://treasure.chess.com/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
-    "category": "lamp",
+    "name": "Dework",
+    "desc": "Dework is a web3-native project management tool with token payments, credentialing, bounties",
+    "image": "dework",
+    "category": "web",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "https://app.dework.xyz/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
+    "name": "Neko No Mori",
+    "desc": "Neko no Mori is a legendary forest in the spirit world inhabited by Neko and other spirits.",
+    "image": "neko",
+    "category": "web",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "https://www.nekonomori.io/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
-    "category": "mern",
+    "name": "Marcolini",
+    "desc": "Maison Pierre Marcolini, a premium Belgian chocolate house. They offer a wide range of chocolates, pastries, gift boxes, and more.",
+    "image": "marcolini",
+    "category": "web",
     "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
+      "view": "https://eu.marcolini.com/en/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Crypto Tracker",
-    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
-    "category": "mern",
+    "name": "TheHotMeal",
+    "desc": "The Hot Meal is a meal planner website designed for the U.S. It helps users plan their meals by providing recipes, nutrition information, and shopping lists.",
+    "image": "thehotmeal",
+    "category": "web",
     "links": {
-      "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
+      "view": "http://thehotmeal.com/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
-    "category": "mern",
+    "name": "UTM Grabber",
+    "desc": "UTM Grabber v3 is a tool developed by HandL Digital LLC. It is designed to help users track and analyze the performance of their marketing campaigns by capturing UTM parameters from URLs.",
+    "image": "utmgrabber",
+    "category": "web",
     "links": {
-      "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+      "view": "https://utmgrabber.com/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
+    "name": "EvolveMep",
+    "desc": "This platform let MEP engineers manage and simulate all of their operations in construction field so they can save thousands of labour hours in the field.",
+    "image": "evolvemep",
+    "category": "web",
     "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "view": "https://www.evolvemep.com/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Composey Website",
-    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
-    "image": "composey",
-    "category": "basicweb",
+    "name": "Worknrby",
+    "desc": "Worknrby is a job search app that helps users find and post jobs in the Jaipur area.",
+    "image": "worknrby",
+    "category": "mobile",
     "links": {
-      "view": "https://composey.netlify.app/",
-      "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
+      "view": "https://play.google.com/store/apps/details?id=com.maaruji.worknrby",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Webview App",
-    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
-    "image": "webviewapp",
-    "category": "android",
+    "name": "Food On Q",
+    "desc": "Food On Q is a food delivery app that provides an efficient food ordering service.",
+    "image": "foodonq",
+    "category": "mobile",
     "links": {
-      "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
-      "code": "https://github.com/jigar-sable/Android-Webview"
+      "view": "https://play.google.com/store/apps/details?id=com.foodnq.orderingapp",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "PHP Banking Website",
-    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
-    "image": "tsfbank",
-    "category": "lamp",
+    "name": "Metamelee",
+    "desc": "MetaMelee: Unleash the Power A captivating world of strategy, cunning, and power awaits you.",
+    "image": "metamelee",
+    "category": "web",
     "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/jigar-sable/TSF-Bank"
+      "view": "https://metamelee.cards",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
-    "category": "basicweb",
+    "name": "BIZZBY",
+    "desc": "This app offers a variety of on-demand services including domestic cleaning, professional cleaning, handyman services, appliance repairs, gardening, childcare, and more.",
+    "image": "bizzby",
+    "category": "mobile",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://play.google.com/store/apps/details?id=com.bizzby.app",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
-    "category": "basicweb",
+    "name": "Eahara",
+    "desc": "This app is a food delivery service operating in Siddipet City. It offers online delivery through its app, website, and on-call service.",
+    "image": "eahara",
+    "category": "mobile",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://play.google.com/store/apps/details?id=com.adeal.eaharaservices",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Foodicious",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
-    "category": "basicweb",
+    "name": "TAPZU",
+    "desc": "This food and grocery delivery services. It offers a wide range of food options, including biryani, pizzas, burgers, salads, and more.",
+    "image": "tapzu",
+    "category": "mobile",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://apps.apple.com/us/app/tapzu-food-grocery-delivery/id1599489244#?platform=iphone",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Food Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
-    "category": "basicweb",
+    "name": "HomeUnion",
+    "desc": "HomeUnion is a platform that helps investors buy and manage single-family rental properties.",
+    "image": "homeunion",
+    "category": "web",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://www.homeunion.com/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "WebChat Website",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat",
-    "category": "mern",
+    "name": "Luuna",
+    "desc": "Luuna is a Mexican brand that offers technology-infused mattresses and sleep products.",
+    "image": "luuna",
+    "category": "web",
     "links": {
-      "view": "https://github.com/jigar-sable/WebChat#webchat",
-      "code": "https://github.com/jigar-sable/WebChat"
+      "view": "https://luuna.mx/",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "Basic Banking App",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank",
-    "category": "android",
+    "name": "Chobani Foodservice",
+    "desc": "They cater to the foodservice industry by providing a range of yogurt products and recipes for use in restaurants, cafes, and other food establishments.",
+    "image": "chobani",
+    "category": "web",
     "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+      "view": "https://www.chobani.com/chobani-foodservice",
+      "code": "https://github.com/starlitnightsky"
     }
   },
   {
-    "name": "JavaScript Issue Tracker",
-    "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
-    "image": "issuetrack",
-    "category": "basicweb",
+    "name": "Musiversal",
+    "desc": "Musiversal is a platform that connects musicians with clients who need professional music recordings.",
+    "image": "musiversal",
+    "category": "web",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
-    }
-  },
-  {
-    "name": "PHP PBL Portal",
-    "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
-    "image": "phppblform",
-    "category": "lamp",
-    "links": {
-      "view": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform#pbl-portal",
-      "code": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform"
-    }
-  },
-  {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/LinkList",
-      "code": "https://github.com/jigar-sable/LinkList"
-    }
-  },
-  {
-    "name": "Job Finder Dummy",
-    "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
-    "image": "saas",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/api-projects/saas-jobs",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
-    }
-  },
-  {
-    "name": "Old Websites",
-    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
-    "image": "oldsites",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Resistor Color Codes",
-    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
-    "image": "resistercolor",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "KIA Info Website",
-    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
-    "image": "kiaweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://www.musiversal.com/",
+      "code": "https://github.com/starlitnightsky"
     }
   }
 ]

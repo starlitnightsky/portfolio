@@ -8,7 +8,6 @@
   text-decoration: none;
   outline: none;
   border: none;
-  text-transform: capitalize;
   transition: all 0.2s linear;
 }
 html {
@@ -214,8 +213,8 @@ header .navbar ul li a:hover {
 .home .image img {
   width: 70%;
   margin-left: 6rem;
-  border-radius: 50%;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+  box-shadow: 0 2px 8px rgb(0, 0, 0);
   cursor: pointer;
 }
 .home .image img:hover {
@@ -306,21 +305,6 @@ header .navbar ul li a:hover {
   color: #fff;
   background-color: #0685da;
 }
-.social-icons a.github:hover {
-  background-color: #0e0e0e;
-}
-.social-icons a.twitter:hover {
-  background-color: #00aced;
-}
-.social-icons a.linkedin:hover {
-  background-color: #007bb6;
-}
-.social-icons a.dev:hover {
-  background-color: #070707;
-}
-.social-icons a.instagram:hover {
-  background-color: #ee00da;
-}
 /* social icons end */
 
 /* hero media queries starts*/
@@ -333,6 +317,8 @@ header .navbar ul li a:hover {
   }
   .home .image img {
     margin-top: -12rem;
+    margin-left: 0px;
+    width: 100%;
   }
   .home .content p {
     font-size: 2.2rem;
@@ -347,6 +333,7 @@ header .navbar ul li a:hover {
 /* about section starts */
 .about {
   background: rgb(255, 255, 255);
+  min-height: 80vh;
 }
 .about .row {
   display: flex;
@@ -361,7 +348,7 @@ header .navbar ul li a:hover {
 }
 .about .row .image img {
   margin: 4rem;
-  width: 30rem;
+  width: 40rem;
   height: auto;
   border-radius: 5%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);
@@ -479,9 +466,9 @@ header .navbar ul li a:hover {
   margin-top: 2rem;
 }
 .skills .container .row {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 1.8rem;
 }
 .skills .container .bar {
@@ -491,6 +478,7 @@ header .navbar ul li a:hover {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   background: rgba(0, 0, 22, 0.9);
   transition: 0.2s;
+  width: 150px;
 }
 .skills .container .bar:hover {
   box-shadow: 0 8px 10px rgba(0, 2, 68, 0.8) !important;
@@ -535,7 +523,7 @@ header .navbar ul li a:hover {
 /* education section starts */
 .education {
   background: #e5ecfb;
-  min-height: 80vh;
+  min-height: 60vh;
 }
 .education .qoute {
   font-size: 1.5rem;
@@ -571,6 +559,11 @@ header .navbar ul li a:hover {
 .education .box-container .box .image {
   flex: 1 1 20rem;
   width: 100%;
+}
+.education .box-container .box .logo {
+  position: fixed;
+  right: 10px;
+  height: 100%;
 }
 .education .box-container .box img {
   object-fit: cover;
@@ -618,6 +611,9 @@ header .navbar ul li a:hover {
     width: 100%;
     height: 25rem;
   }
+  .education .box-container .box .logo {
+    display: none;
+  }
   .education .box-container .box img {
     width: 100%;
   }
@@ -639,25 +635,25 @@ header .navbar ul li a:hover {
 /* education media queries ends*/
 /* education section ends */
 
-/* work section starts */
-.work {
+/* projects section starts */
+.projects {
   /* background: #010124; */
   background: linear-gradient(to bottom, #000031, #00002c);
 }
-.work h2 {
+.projects h2 {
   color: #fff;
   padding: 1rem;
 }
-.work .heading span {
+.projects .heading span {
   color: rgb(255, 230, 0);
 }
-.work .box-container {
+.projects .box-container {
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
   margin: 2rem;
 }
-.work .box-container .box {
+.projects .box-container .box {
   flex: 1 1 30rem;
   border-radius: 0.5rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
@@ -665,12 +661,12 @@ header .navbar ul li a:hover {
   overflow: hidden;
   height: 30rem;
 }
-.work .box-container .box img {
+.projects .box-container .box img {
   height: 100%;
   width: 100%;
   object-fit: cover;
 }
-.work .box-container .box .content {
+.projects .box-container .box .content {
   height: 100%;
   width: 100%;
   position: absolute;
@@ -680,7 +676,7 @@ header .navbar ul li a:hover {
   display: flex;
   flex-direction: column;
 }
-.work .box-container .box .content .tag {
+.projects .box-container .box .content .tag {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -690,28 +686,28 @@ header .navbar ul li a:hover {
   padding-left: 1rem;
   background: #ffd900;
 }
-.work .box-container .box .content .tag h3 {
+.projects .box-container .box .content .tag h3 {
   font-size: 2rem;
 }
-.work .box-container .box:hover .content {
+.projects .box-container .box:hover .content {
   top: 25%;
 }
-.work .desc {
+.projects .desc {
   margin: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
-.work .desc p {
+.projects .desc p {
   font-size: 1.5rem;
 }
-.work .desc .btns {
+.projects .desc .btns {
   display: flex;
   justify-content: space-between;
   width: 100%;
   margin-top: 2rem;
 }
-.work .desc .btns .btn {
+.projects .desc .btns .btn {
   line-height: 0;
   display: inline;
   padding: 1.5rem 2.5rem;
@@ -721,14 +717,14 @@ header .navbar ul li a:hover {
   background: rgb(12, 12, 12);
   margin-right: 2rem;
 }
-.work .desc .btns .btn:hover {
+.projects .desc .btns .btn:hover {
   background: #310ae0f5;
 }
-.work .viewall {
+.projects .viewall {
   display: flex;
   justify-content: center;
 }
-.work .viewall .btn {
+.projects .viewall .btn {
   position: relative;
   line-height: 0;
   padding: 1.6rem 3rem;
@@ -740,26 +736,30 @@ header .navbar ul li a:hover {
   box-shadow: 0px 5px 10px rgba(65, 84, 241, 0.4);
   text-align: center;
 }
-.work .viewall .btn span {
+.projects .viewall .btn span {
   font-weight: 600;
   font-size: 1.7rem;
   font-family: "Nunito", sans-serif;
 }
-.work .viewall .btn i {
+.projects .viewall .btn i {
   margin-left: 0.3rem;
   font-size: 1.5rem;
   transition: 0.3s;
 }
-.work .viewall .btn:hover {
+.projects .viewall .btn:hover {
   background: #fff;
   color: #000;
 }
-.work .viewall .btn:hover i {
+.projects .viewall .btn:hover i {
   transform: translateX(5px);
 }
-/* work section ends */
+/* projects section ends */
 
 /* experience section starts */
+.experience {
+  min-height: 75vh;
+}
+
 .experience .timeline {
   position: relative;
   max-width: 1200px;

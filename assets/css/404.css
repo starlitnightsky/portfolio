@@ -7,7 +7,6 @@
   box-sizing: border-box;
   text-decoration: none;
   outline: none; border: none;
-  text-transform:capitalize;
   transition: all .2s linear;
 }
 html{
@@ -236,7 +235,6 @@ header .navbar ul li a:hover{
   font-size: 1.5rem;
   color: #ccc;
   padding: .7rem 0;
-  text-transform: none;
 }
 .footer .box-container .box p i{
   padding-right: 1rem;
